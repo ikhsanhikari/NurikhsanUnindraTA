@@ -29,7 +29,7 @@ Student:
 Lecture
 1. Generate quesiton including answer with easily
 2. Add pattern question, and decide how about the question level and what type of course
-3. 
+3. Upload Tutorial
 
 
 Database design:
