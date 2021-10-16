@@ -19,15 +19,31 @@ Advance:
 User : 
 1. Sudent
 2. Lecture
+3. Admin
 
 Student:
 1. student can improve skill with exercise from this app
 2. student can find many tutorial
+3. download question in pdf format
 
 Lecture
 1. Generate quesiton including answer with easily
-2. add pattern question, and decide how about the question level and what type of course
+2. Add pattern question, and decide how about the question level and what type of course
+3. 
 
 
+Database design:
 
+List Of Table
+1. mst_user
+2. mst_pattern       : id,pattern,level,course_type
+3. mst_excercise     : id,pattern_id,generate_id,question,answer
+4. mst_quiz          : id,pattern_id,generate_id,question,answer
+5. tx_user_exercise  : id,user_id,generate_id,result
+6. tx_user_quiz      : id,user_id,generate_id,result
 
+Compiler:
+1. Java
+2. Phyton
+3. C++
+4. Javascript
