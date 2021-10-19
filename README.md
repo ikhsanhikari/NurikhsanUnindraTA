@@ -51,5 +51,5 @@ Compiler:
 
 
 
-#Dashboard
+# Compiler
 ![image](https://user-images.githubusercontent.com/28156593/137879993-31a5cd16-ea58-449d-b7cc-5789e7ba16f1.png)
