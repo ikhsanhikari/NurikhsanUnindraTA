@@ -53,3 +53,11 @@ Compiler:
 
 # Compiler
 ![image](https://user-images.githubusercontent.com/28156593/137879993-31a5cd16-ea58-449d-b7cc-5789e7ba16f1.png)
+
+# Pattern
+![image](https://user-images.githubusercontent.com/28156593/137880430-9ba66a6f-b618-4625-8fbe-307b6fad4ecb.png)
+
+#Generate Question with pattern
+![image](https://user-images.githubusercontent.com/28156593/137880596-84fe0377-7a86-4f28-91fb-0425889b0865.png)
+
+
