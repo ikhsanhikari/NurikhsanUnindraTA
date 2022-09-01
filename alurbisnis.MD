@@ -40,10 +40,19 @@
   - Instruktur memberikan hasil nilai mahasiswa kepada pembina berupa lembaran kertas
   - Pembina mengevaluasi hasil nilai mahasiswa.
   - Akan di adakan jilid dua ketika hasil evaluasi tidak sesuai standard.
-  - Mahassiwa lulus pelatihan dan berhak untuk mencari kerja.
+  - Mahassiwa lulus pelatihan dan menjadi senior.
+  - Mahasiswa akan di bagi menjadi 3 kelompok bahasa pemograman , yaitu java , vb.NET dan PHP
+  - Mahasiswa menjalani pelatihan berdasarkan materi bahasa pemograman yang telah di tentukan.
 
-Aplikasi Hikari Learning
+# Aplikasi Hikari Learning
 
-# Daftar user:
-1. Mahasiswa
-  - 
+## Daftar user:
+1. Instruktur
+2. Mahasiswa
+3. Pembina
+
+# Analisis kebutuhan sistem
+- Pengelompokan kualifikasi mahasiswa.
+- Pendataan nilai mahasiswa.
+- Otomatisasi pembuatan soal yang beragam dan dapat di kerjakan mahasiswa sebagai soal latihan.
+- Otomatisasi generate random soal latihan untuk mahasiswa.
