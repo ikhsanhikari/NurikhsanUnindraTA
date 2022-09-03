@@ -66,10 +66,26 @@
   - Forum tanya jawab (tambahan)
   
   ## Instruktur
-  - `Mebuat pattern soal.`
+  - `Membuat pattern soal.`
   - `Generate soal random dari pattern yang sudah di buat.`
   - Forum tanya jawab (tambahan)
   - 
   ## Pembina
   - Melihat nilai masing-masing mahasiswa
 
+# Menu Aplikasi
+  ## Mahasiswa
+  - `Quiz`
+  - `Latihan`
+  - `Module`
+  - `Profile (Nilai sendiri)`
+  - Forum
+  ## Instruktur
+  - `Membuat pola`
+  - `Membuat soal random`
+  - `Seleksi soal untuk quiz`
+
+# Detail Fitur Aplikasi
+  ## Pelaksanaan quiz
+  - Instruktur membuat pola soal.
+  - 
