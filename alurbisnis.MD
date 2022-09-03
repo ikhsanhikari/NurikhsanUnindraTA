@@ -56,3 +56,20 @@
 - Pendataan nilai mahasiswa.
 - Otomatisasi pembuatan soal yang beragam dan dapat di kerjakan mahasiswa sebagai soal latihan.
 - Otomatisasi generate random soal latihan untuk mahasiswa.
+
+# Fitur Aplikasi
+  ## Mahasiswa
+  - `Melakasanakan quiz yang di berikan oleh instruktur`
+  - `Melaksanakan latihan mandiri`
+  - `Melihat nilai quiz dan tugas lainnya`
+  - `Mengakses module yg sudah di upload oleh instruktur (Materi soal)`
+  - Forum tanya jawab (tambahan)
+  
+  ## Instruktur
+  - `Mebuat pattern soal.`
+  - `Generate soal random dari pattern yang sudah di buat.`
+  - Forum tanya jawab (tambahan)
+  - 
+  ## Pembina
+  - Melihat nilai masing-masing mahasiswa
+
