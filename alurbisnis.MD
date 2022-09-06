@@ -84,6 +84,8 @@
   - `Membuat pola`
   - `Membuat soal random`
   - `Seleksi soal untuk quiz`
+  - `Siapkan quiz`
+  - `Siapkan latihan`
 
 # Detail Fitur Aplikasi
   ## Pelaksanaan quiz
